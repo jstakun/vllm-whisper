@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "Before assembling"
 
+su -
 dnf install portaudio
 
 /usr/libexec/s2i/assemble
