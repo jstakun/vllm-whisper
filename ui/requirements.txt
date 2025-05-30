@@ -1,5 +1,0 @@
-streamlit
-sounddevice
-numpy
-scipy
-requests
